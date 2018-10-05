@@ -1,0 +1,19 @@
+.underline {
+    border-bottom: 5px solid #dcab1f;
+}
+
+.underline1 {
+    border-bottom: 4px solid #e7a972;
+}
+.underline2 {
+    border-bottom: 4px solid #726d68;
+}
+.a {
+    height: auto;
+    border: 1px solid black;
+}
+
+.a {
+    width: auto;
+    border: 1px solid black;    
+}
