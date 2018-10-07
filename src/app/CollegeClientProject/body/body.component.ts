@@ -8,5 +8,5 @@ import { Component } from '@angular/core'
 })
 
 export class BodyComponent{
-    Title:'123'
+    Title:'Milind'
 }
