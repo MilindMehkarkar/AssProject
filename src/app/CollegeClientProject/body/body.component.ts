@@ -8,6 +8,6 @@ import { Component } from '@angular/core'
 })
 
 export class BodyComponent{
-    Title:'Milind'
-    Title:'Roshni'
+
+    Title:'Milind123'
 }
